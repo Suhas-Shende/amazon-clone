@@ -1,0 +1,166 @@
+
+svg{
+    width:6rem;
+    height:3rem;
+    margin:0;
+    margin-top: 7px;
+  
+   
+    padding:0;
+}
+
+.map{
+    color:white;
+    margin:0 3px;
+    padding:0;
+    width: 1.5rem;
+    border-collapse: collapse;
+}
+.address{
+    display: block;
+    font-size:13px;
+    line-height: 13px;
+    
+   
+    height:40px;
+    display: inline;
+    margin:0px;
+    margin-top: 5px;
+    padding:0px;
+    border-collapse: collapse;
+}
+.hello{
+   font-size: 10px;
+}
+.nav-first{
+    display:flex;
+    justify-content: space-between;
+    background-color: rgb(19, 25, 33);
+   
+}
+.nav-second{
+         background-color:#232F3E;
+         margin:0;
+        
+}
+.nav-second ul{
+    margin:0;
+    list-style-type: none;
+    display:flex;
+  
+    height: 30px;
+   
+}
+.nav-second ul li{
+  
+   padding:5px;
+   margin-bottom: 3px;
+   margin:0 2px 3px 2px;
+  
+  display: inline-block;
+   
+}
+
+.nav-second ul li a{
+    text-decoration: none;
+    font-size: x-small;
+    display: block;
+    color:white;
+    padding: 2px;
+    
+}
+.nav-second ul li:hover{
+    border: 2px solid white;
+}
+.section-0{
+    height:auto;
+    width: 170px;
+    justify-content: center;
+  
+    display:flex;
+
+   
+    
+}
+
+.inputall{
+    display: flex;
+    
+    
+
+}
+input{
+    height:25px;
+    width:300px;
+    display: block;
+   
+    margin-top:5px;
+   border-left: 0;
+    
+}
+select{
+    height:30px;
+display:block;
+   margin-top:5px;
+   margin-left:5px;
+   border-top-left-radius: 5px; 
+   border-bottom-left-radius: 5px;
+   
+   border: 3px solid orange;
+}
+.search{
+    height: 18px;
+    width:20px;
+    margin:0px;
+    padding: 0;
+    margin-top:6px;
+    padding: 5px;
+    border-top-right-radius: 5px; 
+    border-bottom-right-radius: 5px;
+    background-color: orange;
+    /* border:3px solid rgb(167, 24, 48); */
+}
+.langauge{
+    width:50px;
+
+    
+
+}
+.flag{
+    height: 15px;
+    width:15px;
+    color:red;
+    margin-top: 10px;
+}
+.section-1,.section-2,.cart-0{
+    height:auto;
+    width: 120px;
+    justify-content: center;
+ 
+    display:flex;
+}
+.address-1,.address-2{
+   
+    font-size:15px;
+    line-height: 13px;
+  
+    height:40px;
+    display: inline;
+    margin:0px;
+    margin-top: 7px;
+    line-height: 15px;
+    padding:0px;
+    border-collapse: collapse;
+}
+.cart{
+  width:40px;
+  height:40px;
+
+  
+  margin:0px;
+  margin-top: 7px;
+  padding:0px;
+}
+.cart-0{
+    width:100px
+}

@@ -1,0 +1,27 @@
+.container-product {
+  margin: 7px;
+  padding: 7px;
+  /* border: 3px solid rgb(55, 25, 152); */
+  text-align: center;
+  background-color: antiquewhite;
+  color:black;
+  display:flex;
+  justify-content: center;
+}
+.container-product-second{
+    width:300px;
+    height:400px;
+    /* border:3px solid rgb(118, 68, 68); */
+    margin:10px;
+    background-color: azure;
+    box-shadow: 10px;
+}
+.button-quantity{
+    margin: 3px;
+    background-color: orange;
+   
+}
+.product-details-image{
+    width:150px;
+    height:200px;
+}

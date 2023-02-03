@@ -1,0 +1,66 @@
+.container-middle {
+  /* background-color: aqua; */
+  margin: 0;
+  padding: 0;
+  /* border: 3px solid blue; */
+  background-image: url("https://wallpapercave.com/uwp/uwp3199997.png");
+  height: 1000px;
+}
+.container-middle-none {
+  /* border: 3px solid black; */
+  
+  height: 500px;
+}
+.banner{
+    width:1200px;
+    height:500px;
+}
+.product-container {
+  display: flex;
+  justify-content: space-between;
+  /* border: 3px solid red; */
+}
+.products {
+  width: 300px;
+  height: 350px;
+  /* border: 3px solid green; */
+  margin: 7px;
+  padding: 7px 0px;
+  text-align: center;
+  background-color: rgb(241, 241, 233);
+}
+.product-image {
+  width: 150px;
+  height: 150px;
+}
+h2,
+.deal {
+  margin: 0;
+  padding: 0;
+  color: black;
+}
+.deal{
+    font-weight: lighter;
+}
+button {
+  margin: 5px 0;
+  border-radius: 3px;
+   cursor: pointer;
+   
+}
+button:hover{
+    background-color: rgb(73, 96, 125);
+}
+.buttondeal {
+  border-color: red;
+  background-color: rgb(209, 108, 108);
+  display: block;
+  margin: auto;
+}
+.buttonview {
+  border-color: aquamarine;
+  background-color: aqua;
+ 
+}
+
+/* https://img.freepik.com/free-vector/change-our-date-postponed-wedding-phone-app_52683-39982.jpg?w=740&t=st=1675237737~exp=1675238337~hmac=37036def470f828d933ab15e392e5101245143467744053e5be7db301068d3b5 */
